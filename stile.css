@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+}
+
+body {position: relative;
+	background-color: grey;
+}
+.hero{position: relative;
+margin-top: 0px;}
+.hero p{position: absolute;
+	margin-left: 127px;
+	margin-top: 130px;
+	font-weight: bolder;
+	font-size: 60px;
+	letter-spacing: 5px;
+}
+.logo a img{
+	margin-top: -39px;
+	margin-left: 9px;
+}
+.hero ul {
+	margin-top: 8px;
+	margin-left: 850px;
+font-size: 12px;}
+
+.hero ul li{display: inline-block;
+	margin: 10px 10px;
+
+}
+.hero ul li a{font-weight: bold;
+	color: black;
+	text-decoration: none;
+	
+}
+.hero ul li a:hover{color: red;
+
+
+
+}
+  }
+ h1 {font-weight: bold;
+	margin-top: 120px;
+	color: yellow;
+	margin-left: 25px;
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+   h3 span{position: absolute;
+   	font-weight: bolder;
+  	margin-top: 150px;
+  	font-size: 30px;
+  	margin-left:293px ;
+  	color: #ffcc00;
+  }
+
+ h1 span{position: absolute;
+  	margin-top: 150px;
+  	font-size: 30px;
+  	margin-left:57px ;
+  	color: black;
+  	font-weight: bolder;
+  }
+
+  .cv button {position: absolute;
+  	margin-top: 268px;
+  	font-weight: bold;
+  	margin-left: 207px;
+  	color: whitesmoke;
+  	background-color: black;
+  	height: 35px;
+  	border-radius: 13px;
+  	padding: 6px;}
+
+  	.cv button:hover {
+  		color:#ffcc00;
+
+  	}
+
+  	.cv p{position: absolute;
+  		font-weight: bold;
+  		margin-top: 197px;
+  		margin-left: 57px;
+  		letter-spacing: 1px;
+
+  	}
+
+  	
+  		.huh {position: absolute;
+  		margin-top:50px;
+  		margin-left: 430px;
+  	}
+
+  	.huh:hover{transform: scale(0.9);
+  transition: all .2s ease-in-out;}
+
+  		.ash {position: relative;
+  		margin-top: 85px;
+  		margin-left: 444px;
+  		}
+
+
+  		
